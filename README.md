@@ -1,6 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shivanjali-suryawanshi-109b431a4)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shivanjalisurya1)
- [shivanjaliportfolio](http://shivanjaliportfolio.vercel.app/)
+[![Portfolio](https://img.icons8.com/color/48/000000/website.png)](http://shivanjaliportfolio.vercel.app/)
+
 
 
 
